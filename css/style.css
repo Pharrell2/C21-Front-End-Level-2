@@ -13,7 +13,7 @@ html{
 }
 
 .wrapper{
-    background-color: white;
+    background-color:white;
     margin:0 auto;
     max-width: 125px;
 }
@@ -133,7 +133,7 @@ Main{
 }
 
 .description{
-    width: 485px;
+    width: 385px;
     margin-right: 70px;
 }
 
@@ -147,7 +147,7 @@ Main{
 
 .recept-items,
 .recept-image img{
-    width: 485px;
+    width: 285px;
 }
 
 .recept-items .items{
@@ -169,3 +169,8 @@ Main{
     justify-content: center;
     margin-left: 10px;
 }
+
+#show{
+display: none;
+}
+
