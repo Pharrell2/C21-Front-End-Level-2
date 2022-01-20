@@ -13,7 +13,7 @@ html{
 }
 
 .wrapper{
-    background-color:white;
+    background-color: white;
     margin:0 auto;
     max-width: 125px;
 }
@@ -98,7 +98,7 @@ button{
     font-family: 'Karla', sans-serif;
     font-size: 16px;
     height:42px;
-    color: #ffff;
+    color: #fff;
     background-color: #ca404f;
     padding: 0 20px;
     line-height: 42px;
@@ -115,7 +115,7 @@ a{
 
 Main{
     padding:0 100px 40px 100px;
-    background-image: url("../img/background.png");
+    background-image: url("..//background.png");
     background-repeat: no-repeat;
     background-position: center bottom;
 }
@@ -133,7 +133,7 @@ Main{
 }
 
 .description{
-    width: 385px;
+    width: 485px;
     margin-right: 70px;
 }
 
@@ -147,7 +147,7 @@ Main{
 
 .recept-items,
 .recept-image img{
-    width: 285px;
+    width: 485px;
 }
 
 .recept-items .items{
@@ -169,8 +169,3 @@ Main{
     justify-content: center;
     margin-left: 10px;
 }
-
-#show{
-display: none;
-}
-
